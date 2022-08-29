@@ -10,9 +10,13 @@
     "@types/node": "^16.11.49",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
+    "axios": "^0.27.2",
     "react": "^18.2.0",
+    "react-chevron": "^1.0.4",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "react-spinners": "^0.13.4",
+    "sass": "^1.54.4",
     "typescript": "^4.7.4",
     "web-vitals": "^2.1.4"
   },
