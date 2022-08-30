@@ -1,6 +1,6 @@
 const endpoint: string = "https://api.jikan.moe/v4";
 const mangaId: string = "1706";
-const animeId: string = "48661";
+const animeId: string = "37510";
 
 const requests = {
   fetchTopMangaAll: `${endpoint}/top/manga`,
